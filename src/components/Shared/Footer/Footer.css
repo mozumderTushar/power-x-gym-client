@@ -1,0 +1,19 @@
+.footer p {
+    color: #fff
+}
+.footer a{
+    color: #fff;
+    display: inline-block
+}
+.footer a:hover{
+    text-decoration:none
+}
+.footer img{
+    height: 22px;
+    width: 20px;
+    margin-right: 10px;
+}
+.footerBtm{
+    margin: 0;
+    padding: 0;
+}

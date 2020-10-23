@@ -1,10 +1,11 @@
 import React from 'react';
 import gymVideo from '../../../Image/gym.mp4'
+import gymVideoOne from '../../../Image/gym1.mp4'
 
 const HeaderMain = () => {
     return (
         <div className="container text-white my-5">
-            <div className="row d-flex  justify-content-center align-items-center">
+            <div className="row d-flex  justify-content-center align-items-center p-2">
                 <div className="col-md-6">
                     <h1 style={{fontWeight:'bolder'}}>THE BEST FITNESS <br /> STUDIO IN TOWN</h1>
                     <p>Lorem ipsum has been the industry's standard dummy text ever since the 1500, when an
@@ -13,12 +14,12 @@ const HeaderMain = () => {
                     </p>
                 </div>
                 <div className="col-md-6">
-                    {/* <video 
-                    src={gymVideo} 
-                    width="650" 
-                    height="600"
+                    <video 
+                    src={gymVideoOne} 
+                    width="600" 
+                    height="400"
                     controls="controls" 
-                    autoPlay loop muted /> */}
+                    autoPlay loop muted />
                 </div>
             </div>
         </div>
