@@ -1,0 +1,28 @@
+.work img {
+    display: block;
+    width: 350px;
+    height: 400px;
+}
+
+.work {
+    position: relative;
+    display: inline-block;
+}
+
+.work-details {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate( -50%, -50% );
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+.work-details img{
+    margin: 0 auto;
+    height: 60px;
+    width: 60px;
+}
+.work-details:hover{
+    color: #FCD842
+}

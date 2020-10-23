@@ -9,7 +9,7 @@ let choose = [
         id: '2',
         name: 'NO COMMITMENT MEMBERSHIPS',
         img:'https://i.ibb.co/VjGyhpC/Group-88.png',
-        info: "Lorem ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type"
+        info: "Lorem ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of"
     },
     {
         id: '3',
